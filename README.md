@@ -18,7 +18,7 @@ Ein vollständiges End-to-End Projekt im **SAP RESTful Application Programming M
 
 ## 📂 Projektstruktur & Aufgaben
 
-Das Projekt ist in folgende logische Phasen unterteilt (siehe auch die [vollständige Projektdokumentation als PDF](Dokumentation_KSW_Pflichtuebung.pdf):
+Das Projekt ist in folgende logische Phasen unterteilt :
 
 1. **Datenschicht & Seeding (Aufgabe 1 & 2):**
    * Erstellung von individuellen Domains und Data Elements (`INT4`, `CHAR`, etc.).
@@ -44,4 +44,4 @@ Das Projekt ist in folgende logische Phasen unterteilt (siehe auch die [vollstä
 
 ## 📄 Dokumentation
 Die vollständige, bebilderte Schritt-für-Schritt-Dokumentation aller Arbeitsschritte (inklusive Eclipse- und SAP-GUI-Screenshots) findest du hier:
-👉 **[Dokumentation als PDF herunterladen]([https://github.com/amri81/sap-rap-fiori-product-management/raw/main/docs/Dokumentation_KSW_Pflichtuebung.pdf](https://github.com/amri81/sap-rap-fiori-product-management/blob/main/docs/Dokumentation%20der%20KSW-Pflicht%C3%BCbung.pdf)**
+👉 **(https://github.com/amri81/sap-rap-fiori-product-management/blob/main/docs/Dokumentation%20der%20KSW-Pflicht%C3%BCbung.pdf)**
