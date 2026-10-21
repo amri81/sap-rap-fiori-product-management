@@ -44,4 +44,4 @@ Das Projekt ist in folgende logische Phasen unterteilt (siehe auch die [vollstä
 
 ## 📄 Dokumentation
 Die vollständige, bebilderte Schritt-für-Schritt-Dokumentation aller Arbeitsschritte (inklusive Eclipse- und SAP-GUI-Screenshots) findest du hier:
-👉 **[Dokumentation als PDF herunterladen](docs/Dokumentation_KSW_Pflichtuebung.pdf)**
+👉 **[Dokumentation als PDF herunterladen](https://github.com/amri81/sap-rap-fiori-product-management/raw/main/docs/Dokumentation_KSW_Pflichtuebung.pdf)**
