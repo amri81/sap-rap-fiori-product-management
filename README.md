@@ -18,7 +18,7 @@ Ein vollständiges End-to-End Projekt im **SAP RESTful Application Programming M
 
 ## 📂 Projektstruktur & Aufgaben
 
-Das Projekt ist in folgende logische Phasen unterteilt (siehe auch die [vollständige Projektdokumentation als PDF](docs/Dokumentation_KSW_Pflichtuebung.pdf)):
+Das Projekt ist in folgende logische Phasen unterteilt (siehe auch die [vollständige Projektdokumentation als PDF](Dokumentation_KSW_Pflichtuebung.pdf)):
 
 1. **Datenschicht & Seeding (Aufgabe 1 & 2):**
    * Erstellung von individuellen Domains und Data Elements (`INT4`, `CHAR`, etc.).
